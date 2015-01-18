@@ -4,10 +4,11 @@ HEADERS =
 
 CC = gcc
 CFLAGS = -Wall -g 
+LIBS = -lm
 OBJECTS = ${SOURCE:.c=.o}
 
 $(PROJECT): $(OBJECTS)
-	$(CC) $(CFLAGS) $(OBJECTS) -o $(PROJECT)
+	$(CC) $(CFLAGS) $(OBJECTS) -o $(PROJECT) $(LIBS)
 
 $(OBJECTS): $(HEADERS)
 
