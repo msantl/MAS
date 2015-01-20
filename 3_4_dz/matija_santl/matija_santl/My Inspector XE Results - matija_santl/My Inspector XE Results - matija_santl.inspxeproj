@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1421664269</timestamp>
+  <hostname>Pclab2-10.fer.hr</hostname>
+  <os>windows</os>
+  <product>Intel® Inspector XE 2013 Update 8</product>
+  <buildNumber type="s32_t">313340</buildNumber>
+  <logicalCPUCount type="s32_t">4</logicalCPUCount>
+  <CPUFrequency type="s64_t">2327000000</CPUFrequency>
+ </rdmgr>
+ <suppressions type="bag"/>
+ <All_Configurations-All_Platforms>
+  <searchDirs>
+   <searchCategory>
+    <category type="u8_t">1</category>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">2</category>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">3</category>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">4</category>
+   </searchCategory>
+  </searchDirs>
+  <target_settings>
+   <selected_workload>launch</selected_workload>
+   <result_dir>D:\mas\matija_santl\matija_santl\My Inspector XE Results - matija_santl</result_dir>
+   <workloads>
+    <launch type="pointer" type_id="dasID_cctrl2::ApplicationWorkload" ptr_type="dasID_cctrl2::IWorkload">
+     <workload>
+      <targetName>launch</targetName>
+      <result_directory.path>D:\mas\matija_santl\matija_santl\My Inspector XE Results - matija_santl\r@@@{at}</result_directory.path>
+      <launch_app.app_to_launch>D:\mas\matija_santl\Debug\matija_santl.exe</launch_app.app_to_launch>
+      <launch_app.working_folder>D:\mas\matija_santl\matija_santl</launch_app.working_folder>
+      <launch_app.environment_prepend>PATH=C:\Program Files (x86)\Intel\Composer XE 2013 SP1\redist\ia32\compiler;C:\Program Files (x86)\Intel\Composer XE 2013 SP1\redist\ia32\tbb\vc9;C:\Program Files (x86)\Intel\Composer XE 2013 SP1\redist\ia32\ipp;C:\Program Files (x86)\Intel\Composer XE 2013 SP1\redist\ia32\mkl;</launch_app.environment_prepend>
+      <context>
+       <contextValue>
+        <id>appdebug</id>
+        <value>off</value>
+       </contextValue>
+       <contextValue>
+        <id>custom_debugger</id>
+        <value></value>
+       </contextValue>
+       <contextValue>
+        <id>debug_this_problem</id>
+        <value></value>
+       </contextValue>
+       <contextValue>
+        <id>debug_using</id>
+        <value>gdb</value>
+       </contextValue>
+       <contextValue>
+        <id>heartbeat</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>modules_switch</id>
+        <value>knob.modules_switch.include</value>
+       </contextValue>
+       <contextValue>
+        <id>mrte_mode</id>
+        <value>auto</value>
+       </contextValue>
+       <contextValue>
+        <id>process_for_analysis</id>
+        <value></value>
+       </contextValue>
+       <contextValue>
+        <id>suppressions</id>
+        <value>delete</value>
+       </contextValue>
+      </context>
+      <search_directories>
+       <item>
+        <value>sym=D:/mas/matija_santl/Debug</value>
+       </item>
+       <item>
+        <value>sym=D:/mas/matija_santl</value>
+       </item>
+      </search_directories>
+     </workload>
+    </launch>
+   </workloads>
+  </target_settings>
+ </All_Configurations-All_Platforms>
+</root>

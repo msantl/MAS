@@ -1,0 +1,8 @@
+	Ime Funkcije		Doprinos (%)
+1.	Cos			94.10
+2.	DCT			3.31
+3. 	RTC_CheckEsp		1.47
+4.	Round			0.18
+5.	RGBtoYCbCr		0.18
+
+Vrijeme izvodjenja: 8.470 s.

@@ -1,0 +1,17 @@
+-r
+D:\mas\matija_santl\matija_santl\My Amplifier XE Results - matija_santl\r000hs
+--data-limit-mb=500
+--stack-stitching
+--follow-child
+--type=frame:counters
+--stackwalk=offline
+--mrte-mode=auto
+--type=cpu:counters
+--type=cpu:stack
+--interval=10
+--search-dir
+sym=d:\mas\matija_santl\Debug
+--search-dir
+sym=D:\mas\matija_santl
+--
+d:\mas\matija_santl\Debug\matija_santl.exe

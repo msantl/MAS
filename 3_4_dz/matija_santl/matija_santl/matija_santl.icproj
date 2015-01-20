@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="14.0"
+	Name="matija_santl"
+	ProjectGUID="{17F37E35-6C69-4168-897D-336C6D00B802}"
+	VCNestedProjectGUID="{E992689A-5610-4E51-B070-C8AC28AF8109}"
+	VCNestedProjectFileName="matija_santl.vcproj"
+	>
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

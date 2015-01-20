@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{EAF909A5-FA59-4C3D-9431-0FCC20D5BCF9}") = "matija_santl", "matija_santl\matija_santl.icproj", "{17F37E35-6C69-4168-897D-336C6D00B802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F37E35-6C69-4168-897D-336C6D00B802}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17F37E35-6C69-4168-897D-336C6D00B802}.Debug|Win32.Build.0 = Debug|Win32
+		{17F37E35-6C69-4168-897D-336C6D00B802}.Release|Win32.ActiveCfg = Release|Win32
+		{17F37E35-6C69-4168-897D-336C6D00B802}.Release|Win32.Build.0 = Release|Win32
+		{E992689A-5610-4E51-B070-C8AC28AF8109}.Release|Win32.Build.0 = Release|Win32
+		{E992689A-5610-4E51-B070-C8AC28AF8109}.Release|Win32.ActiveCfg = Release|Win32
+		{E992689A-5610-4E51-B070-C8AC28AF8109}.Debug|Win32.Build.0 = Debug|Win32
+		{E992689A-5610-4E51-B070-C8AC28AF8109}.Debug|Win32.ActiveCfg = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
